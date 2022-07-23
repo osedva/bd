@@ -16,16 +16,16 @@
       "persona": "Oscar V",
       "estado": 2,
       "finicio":1656910800,
-      "fentrega":1290410940
+      "fentrega":1658552400
     },
     {
       "id": 3,
       "titulo": "App Trello",
       "detalle": "drag",
       "persona": "Oscar V",
-      "estado": 3,
+      "estado": 1,
       "finicio":1656910800,
-      "fentrega":1290410940
+      "fentrega":1659243600
     }    
   ]
 }
